@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Riknesh
-- 👀 I’m interested in computer science and physics
-- 🌱 I’m currently learning C-programming, python, data structure and algorithms
+
 
 
 <!---
